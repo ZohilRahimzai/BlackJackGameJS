@@ -1,0 +1,52 @@
+.one {
+
+   text-align: center;
+   color: aliceblue;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular',
+   'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+   sans-serif;
+   margin-top: 20px;
+
+}
+
+body {
+
+    background-color: green;
+
+}
+
+
+#two {
+
+    color: yellow;
+
+}
+
+
+
+#but {
+
+    color: green;
+    background-color: yellow;
+    padding: 10px;
+
+
+
+
+
+}
+
+#but1 {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+
+     color: green;
+    background-color: yellow;
+    padding: 10px;
+    padding-left: 13px;
+    padding-right: 13px;
+
+}

@@ -18,7 +18,7 @@ body {
 
 #two {
 
-    color: yellow;
+    color: rgba(255, 255, 0, 0.815);
 
 }
 
@@ -26,7 +26,7 @@ body {
 
 #but {
 
-    color: green;
+    color: rgba(0, 128, 0, 0.918);
     background-color: yellow;
     padding: 10px;
 

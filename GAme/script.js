@@ -31,8 +31,6 @@ let randoNumber = Math.floor (Math.random() * 13 ) + 1;
 
     }
 
-        
-
 }
 
 
@@ -45,8 +43,6 @@ function startGame() {
 }
 
 function renderGame() {
-
-   
 
     if(sum1 <= 20) {
 
@@ -62,7 +58,7 @@ function renderGame() {
 
     )
 
-    //console.log(message);
+
     ttsum.innerText = "Sum: " + sum1;
     tcards.innerText = "Cards: "
 
@@ -87,8 +83,6 @@ function newcard() {
     console.log(cards);
 
     renderGame();
-
-
 
 }
 
